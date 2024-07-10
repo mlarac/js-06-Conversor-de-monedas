@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 2rem;
+    width: 40%;
+    background-color: gray;
+}
